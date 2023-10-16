@@ -1,0 +1,1 @@
+p = subprocess.Popen("bash run.sh", shell=True, cwd=dbs.workspace.path, stderr=subprocess.PIPE)

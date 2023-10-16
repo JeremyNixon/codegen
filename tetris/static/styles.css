@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+}
+
+#game-board {
+    width: 400px;
+    height: 800px;
+    background-color: #fff;
+}
